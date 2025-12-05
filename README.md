@@ -47,6 +47,7 @@ cd scripts
 sudo ./install_lamp.sh
 sudo ./setup_letsencrypt_certificate.sh
 ```
+![Ejecución de scripts](/images/ejecutamos%20scripts.png)
 
 ### 3. Configuración
 
